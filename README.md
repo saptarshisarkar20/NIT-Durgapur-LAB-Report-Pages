@@ -14,7 +14,7 @@
 
 created by : @Saptarshi_Sarkar_CSE @Sayak_Das_ECE
 
-@Saptarshi : https://saptarshi-personal.herokuapp.com
-@sayak : https://sayak01.epizy.com
+* @Saptarshi : https://saptarshi-personal.herokuapp.com
+* @sayak : https://sayak01.epizy.com
 
 
